@@ -1,11 +1,11 @@
-# NHANES
-The National Health and Nutrition Examination Survey (NHANES) is a program of studies designed to assess the health and nutritional status of adults and children in the United States.The NHANES interview includes demographic, socioeconomic, dietary, and health-related datasets. 
+# Machine learning to predict Sjogren syndrome subgroups based on transcriptome
+Bulk RNA sequencing in minor salivary glands of Brazilian patients with primary Sjögren’s syndrome (SS) and healthy volunteers
+Study by: Contributor(s)	Chiorini JA, Mo Y, Pranzatelli TJ, Michael DG, Ji Y, Rocha EM
+Available in GEO: GSE154926 
 
 Author:
 Agustin Alejandro Martinez Chibly
 
-Data Source for this project: https://www.kaggle.com/cdc/national-health-and-nutrition-examination-survey
-NHANES website: https://www.cdc.gov/nchs/nhanes/index.htm 
+Data Source for this project: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE154926
 
-Project Description: We will use a supervised machine learning approach to predict mental health disorders based on demographic, socioeconomic, and biochemical factors from the National Health and Nutrition Examination Survey (NHANES) dataset 2013-2014. We will use logistic regression as a performance baseline model and will compare with SVM and Random Forest Classifier (RFC) algorithms
-
+Project Description: We will use an unsupervised machine learning approach to identify subtypes of sjogren's syndrome (ss) based on their transcriptional profile. We will then generate a supervised model using Random Forest Classifiers (RFC) to predict subgroups of SS with the most significant featured identified in our unsupervised clustering approach. 
