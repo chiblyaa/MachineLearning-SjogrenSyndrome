@@ -1,4 +1,4 @@
-# Machine learning to predict Sjogren syndrome subgroups based on transcriptome
+# Machine learning to predict Sjogren syndrome subgroups based on transcriptome of salivary glands
 Bulk RNA sequencing in minor salivary glands of Brazilian patients with primary Sjögren’s syndrome (SS) and healthy volunteers. \
 Available in GEO: GSE154926 (Contributor(s)	Chiorini JA, Mo Y, Pranzatelli TJ, Michael DG, Ji Y, Rocha EM)
 
