@@ -1,4 +1,4 @@
-# MUsing Supervised Machine Learning for Prediction of Sjogren Syndrome in Salivary Glands Based on Gene Expression
+# Using Supervised Machine Learning for Prediction of Sjogren Syndrome in Salivary Glands Based on Gene Expression
 Bulk RNA sequencing in minor salivary glands of Brazilian patients with primary Sjögren’s syndrome (SS) and healthy volunteers. \
 Available in GEO: GSE154926 (Contributor(s)	Chiorini JA, Mo Y, Pranzatelli TJ, Michael DG, Ji Y, Rocha EM)
 
